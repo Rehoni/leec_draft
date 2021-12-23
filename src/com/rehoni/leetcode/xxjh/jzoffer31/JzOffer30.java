@@ -1,4 +1,4 @@
-package com.rehoni.leetcode.xxjh.jzoffer;
+package com.rehoni.leetcode.xxjh.jzoffer31;
 
 import java.util.Deque;
 import java.util.LinkedList;

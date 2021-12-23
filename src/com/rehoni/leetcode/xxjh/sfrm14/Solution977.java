@@ -1,4 +1,4 @@
-package com.rehoni.leetcode.xxjh.sfrm;
+package com.rehoni.leetcode.xxjh.sfrm14;
 
 /**
  * 类<code>Doc</code>用于：977. 有序数组的平方

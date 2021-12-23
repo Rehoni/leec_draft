@@ -1,6 +1,4 @@
-package com.rehoni.leetcode.xxjh.sfrm;
-
-import java.util.Arrays;
+package com.rehoni.leetcode.xxjh.sfrm14;
 
 /**
  * 类<code>Doc</code>用于：189. 轮转数组

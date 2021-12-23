@@ -1,10 +1,5 @@
 package com.rehoni.leetcode.mryt;
 
-import com.rehoni.leetcode.xxjh.sfrm.Solution557;
-
-import java.util.Arrays;
-import java.util.HashMap;
-
 /**
  * 类<code>Doc</code>用于：997. 找到小镇的法官
  * 存在所有人指向法官，并且法官不指向任何人的情况。

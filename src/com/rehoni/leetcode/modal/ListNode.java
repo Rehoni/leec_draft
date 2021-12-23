@@ -1,7 +1,5 @@
 package com.rehoni.leetcode.modal;
 
-import com.rehoni.leetcode.xxjh.sfrm.Solution876;
-
 /**
  * 类<code>Doc</code>用于：TODO
  *

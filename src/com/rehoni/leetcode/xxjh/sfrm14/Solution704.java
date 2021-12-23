@@ -1,4 +1,4 @@
-package com.rehoni.leetcode.xxjh.sfrm;
+package com.rehoni.leetcode.xxjh.sfrm14;
 
 /**
  * 类<code>Doc</code>用于：704. 二分查找
