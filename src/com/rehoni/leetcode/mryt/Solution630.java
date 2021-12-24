@@ -1,7 +1,7 @@
 package com.rehoni.leetcode.mryt;
 
 /**
- * 类<code>Doc</code>用于：课程表 III
+ * 类<code>Doc</code>用于：TODO:课程表 III
  *
  * @author luohao
  * @version 1.0

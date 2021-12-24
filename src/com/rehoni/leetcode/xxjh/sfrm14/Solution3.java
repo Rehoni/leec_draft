@@ -11,24 +11,26 @@ public class Solution3 {
     public static void main(String[] args) {
         int a = lengthOfLongestSubstring("abcabcbb");
         System.out.println(a);
+        String s = " ";
+        String trim = s.trim();
+        System.out.println("===" + trim + "===");
     }
 
     public static int lengthOfLongestSubstring(String s) {
-        int[] sMap = new int[26];
-        for (char c : s.toCharArray()) {
-            sMap[c - 'a']++;
+        if (s.length() < 2) {
+            return s.length();
         }
-        int[] winMap = new int[26];
+        int[] winMap = new int[128];
         int l = 0;
         int r = 0;
         int max = 0;
         while (r < s.length()) {
             char c = s.charAt(r);
-            winMap[c - 'a']++;
-            while (winMap[c - 'a'] > 1) {
+            winMap[c]++;
+            while (winMap[c] > 1) {
                 char d = s.charAt(l);
                 l++;
-                winMap[d - 'a']--;
+                winMap[d]--;
             }
             max = Math.max(r - l + 1, max);
             r++;

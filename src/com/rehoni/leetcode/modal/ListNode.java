@@ -1,7 +1,7 @@
 package com.rehoni.leetcode.modal;
 
 /**
- * 类<code>Doc</code>用于：TODO
+ * 类<code>Doc</code>用于：
  *
  * @author luohao
  * @version 1.0

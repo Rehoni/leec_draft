@@ -1,4 +1,4 @@
-package com.rehoni.leetcode.tag.hdck;
+package com.rehoni.leetcode.tag.slidewindow;
 
 import java.util.ArrayList;
 import java.util.HashMap;
